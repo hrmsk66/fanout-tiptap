@@ -1,0 +1,8 @@
+.DS_Store
+**/node_modules
+**/bin
+**/target
+**/*.rs.bk
+**/bin
+**/pkg
+**/env.ts

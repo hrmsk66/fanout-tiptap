@@ -1,0 +1,14 @@
+
+[dependencies]
+  fastly = "^0.8.6"
+
+[package]
+  edition = "2021"
+  name = "front"
+  publish = false
+  version = "0.1.0"
+
+[profile]
+
+  [profile.release]
+    debug = 1
